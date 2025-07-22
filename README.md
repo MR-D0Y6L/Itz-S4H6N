@@ -1,25 +1,25 @@
-<h1 align="center">Hi 👋, I'm SOHAN</h1>
+<h1 align="center">Hi 👋, I'm MR-D0Y6L</h1>
 <h3 align="center">A Programmer from Bangladesh</h3>
 <img align="right" alt"coding" width"400" src"https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itz-s4h6n&label=Profile%20views&color=0e75b6&style=flat" alt="itz-s4h6n" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itz-s4h6n&label=Profile%20views&color=0e75b6&style=flat" alt="MR-D0Y6L" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itz-s4h6n" alt="itz-s4h6n" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MR-D0Y6L" alt="MR-D0Y6L" /></a> </p>
 
 - 🔭 I’m currently working on **Cyber security**
 
 - 🌱 I’m currently learning **Python, C++,Js,Html,Css,Php,Sqli..etc**
 
-- 👨‍💻 All of my projects are available at [github.com/Itz-S4H6N](github.com/Itz-S4H6N)
+- 👨‍💻 All of my projects are available at [https://github.com/MR-D0Y6L](https://github.com/MR-D0Y6L)
 
 - 💬 Ask me about **Android, Linux Terminal**
 
-- 📫 How to reach me **mail.sohan360@gmail.com**
+- 📫 How to reach me **error.specialist@gmail.com**
 
 - ⚡ Fun fact **I think Im Funny 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/itz.sohan.vau.error.max.10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itz.sohan.vau.error.max.10" height="30" width="40" /></a>
+<a href="https://fb.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itz.sohan.vau.error.max.10" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
